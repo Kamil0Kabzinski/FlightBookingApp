@@ -1,0 +1,7 @@
+{
+  "name": "flightbookingapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
